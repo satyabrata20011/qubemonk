@@ -55,7 +55,7 @@ export function NavFooter({ prismaUser }: { prismaUser: User }) {
             <div className="flex flex-col items-start p-2 pb-3 gap-4 bg-background-80">
               <div className="flex flex-col items-start gap-1">
                 <p className="text-base font-bold">
-                  Get <span className="text-vivid">Slidely AI</span>
+                  Get <span className="text-vivid">Qubemonk AI</span>
                 </p>
                 <span className="text-sm dark:text-secondary">
                   Unlock all features including AI and more
