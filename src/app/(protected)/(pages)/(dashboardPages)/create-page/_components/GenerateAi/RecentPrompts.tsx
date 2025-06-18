@@ -51,7 +51,7 @@ export const RecentPrompts = () => {
                 </p>
               </div>
               <div className="flex items-center gap-4">
-                <span className="text-sm text-vivid">Slidely AI</span>
+                <span className="text-sm text-vivid">Qubemonk AI</span>
 
                 <Button
                   variant="default"
