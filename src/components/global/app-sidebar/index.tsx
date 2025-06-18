@@ -43,7 +43,7 @@ export function AppSidebar({
           </div>
 
           <span className="truncate text-primary text-3xl font-semibold">
-            Slidely
+            Qubemonk
           </span>
         </SidebarMenuButton>
       </SidebarHeader>
