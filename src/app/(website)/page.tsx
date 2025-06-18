@@ -46,7 +46,7 @@ export default function Page() {
       {/* Header */}
       <header className="fixed top-0 left-0 right-0 z-50 backdrop-blur-md bg-black/20 border-b border-white/5">
         <nav className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <div className="text-2xl font-bold">Slidely</div>
+          <div className="text-2xl font-bold">Qubemonk</div>
           <div className="space-x-8">
             <button
               onClick={() => scrollToSection("features")}
@@ -340,7 +340,7 @@ export default function Page() {
             </div>
           </div>
           <div className="mt-20 pt-8 border-t border-white/5 text-center text-white/40">
-            © {new Date().getFullYear()} Slidely. All rights reserved.
+            © {new Date().getFullYear()} Qubemonk. All rights reserved.
           </div>
         </div>
       </footer>
