@@ -169,7 +169,7 @@ export default function CreateAI({ onBack }: CreateAIProps) {
       </Button>
       <motion.div variants={itemVariants} className="text-center space-y-2">
         <h1 className="text-4xl font-bold text-primary">
-          Generate with <span className="text-vivid">Slidely AI</span>
+          Generate with <span className="text-vivid">Qubemonk AI</span>
         </h1>
         <p className="text-secondary">What would like to create today?</p>
       </motion.div>
