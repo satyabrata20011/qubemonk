@@ -82,13 +82,13 @@ export const CreatePageCard = [
   {
     title: "Use a",
     highlightedText: "Template",
-    description: "Use from a stored purchased slidely template",
+    description: "Use from a stored purchased Qubemonk template",
     type: "template",
   },
   {
     title: "Generate with",
-    highlightedText: "Slidely AI",
-    description: "Create Slides using Slidely AI Assist",
+    highlightedText: "Qubemonk AI",
+    description: "Create Slides using Qubemonk AI Assist",
     type: "creative-ai",
     highlight: true,
   },
