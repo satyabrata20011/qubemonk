@@ -18,9 +18,9 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Slidely - Turn Ideas into Stunning Slides",
+  title: "Qubemonk - Turn Ideas into Stunning Slides",
   description:
-    "Turn ideas into professional presentations with Slidely. AI-powered slide creation & a marketplace for buying & selling templates.",
+    "Turn ideas into professional presentations with Qubemonk. AI-powered slide creation & a marketplace for buying & selling templates.",
 };
 
 export default function RootLayout({
